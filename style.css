@@ -1,0 +1,8 @@
+.map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+}
+/*This makes your map to fill the whole page. the dot is calling the classname map.
+Explore W3 schools to learn more on CSS*/
